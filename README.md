@@ -1,5 +1,4 @@
-# LOBSTER: Bilateral Global Semantic Enhancement for Multimedia
-Recommendation
+# LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation
 
 <!-- PROJECT LOGO -->
 
@@ -7,7 +6,7 @@ Recommendation
 
 This is the Pytorch implementation for our LOBSTER paper:
 
->LOBSTER: Bilateral Global Semantic Enhancement for Multimedia
+>LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation
 
 ## Enviroment Requirement
 - python 3.9
