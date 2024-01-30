@@ -16,7 +16,7 @@ This is the Pytorch implementation for our LOBSTER paper:
 
 We provide three processed datasets: Baby, Sports.
 
-Download from Google Drive: [Baby/Sports](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=drive_link)
+Download from Google Drive: [Baby/Sports](https://drive.google.com/drive/folders/1tU4IxYbLXMkp_DbIOPGvCry16uPvolLk)
 
 ## Training
   ```
