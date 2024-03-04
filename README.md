@@ -8,7 +8,7 @@ This is the Pytorch implementation for our LOBSTER paper:
 
 >LOBSTER: Bilateral Global Semantic Enhancement for Multimedia Recommendation
 
-## Enviroment Requirement
+## Environment Requirement
 - python 3.9
 - Pytorch 2.1.0
 
