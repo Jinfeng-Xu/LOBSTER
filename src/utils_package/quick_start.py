@@ -1,10 +1,4 @@
-# coding: utf-8
-# @email: enoche.chow@gmail.com
 
-"""
-Run application
-##########################
-"""
 from logging import getLogger
 from itertools import product
 from utils_package.dataset import RecDataset

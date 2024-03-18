@@ -1,8 +1,4 @@
-# coding: utf-8
-# @email: enoche.chow@gmail.com
-"""
-################################
-"""
+
 import os
 import numpy as np
 import pandas as pd

@@ -1,9 +1,3 @@
-# coding: utf-8
-# @email: enoche.chow@gmail.com
-
-r"""
-################################
-"""
 
 import os
 import itertools
